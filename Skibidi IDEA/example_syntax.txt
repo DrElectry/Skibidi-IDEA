@@ -1,0 +1,12 @@
+//comments :D
+
+if this_cool == 1:
+   string thats cool
+else
+   bool cool = false
+
+let me be happy rn
+while im happy
+class happiness:
+    def how to be 
+    function happy

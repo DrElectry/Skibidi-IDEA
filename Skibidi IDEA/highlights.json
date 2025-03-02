@@ -1,0 +1,68 @@
+{
+    "comments": {
+      "start": "//",
+      "color": "#D7FFA8"
+    },
+    "keywords": {
+      "local": {
+        "color": "#FFD89C"
+      
+       },
+       "def": {
+        "color": "#FFD89C"
+      
+       },
+       "if": {
+        "color": "#FFD89C"
+      
+       },
+       "else": {
+        "color": "#FFD89C"
+      
+       },
+       "while": {
+        "color": "#FFD89C"
+      
+       },
+       "class": {
+        "color": "#FFD89C"
+      
+       },
+       "function": {
+        "color": "#FFD89C"
+      
+       },
+       "let": {
+        "color": "#FFD89C"
+      
+       },
+       "for": {
+        "color": "#FFD89C"
+      
+       },
+       "int": {
+        "color": "#FFD89C"
+      
+       },
+       "float": {
+        "color": "#FFD89C"
+      
+       },
+       "bool": {
+        "color": "#FFD89C"
+      
+       },
+       "string": {
+        "color": "#FFD89C"
+      
+       },
+       "char": {
+        "color": "#FFD89C"
+      
+       },
+       "list": {
+        "color": "#FFD89C"
+      
+       }
+    }   
+}
